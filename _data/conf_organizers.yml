@@ -1,47 +1,15 @@
-- name: Avrilia Floratou
-  photo: avrilia.jpg
-  web: https://www.microsoft.com/en-us/research/people/avflor/
-  info: "D&I Co-Chair for <b>SIGMOD 2021</b>"
-- name: Arun Kumar
-  photo: arun.jpg
-  web: http://cseweb.ucsd.edu/~arunkk/
-  info: "D&I Co-Chair for <b>SIGMOD 2021</b>"
-- name: Georgia Koutrika
-  photo: georgia.jpg
-  web: http://cgi.di.uoa.gr/~koutrika/
-  info: "D&I chair for <b>ICDE 2021</b>"
-- name: Victor Zakhary
-  photo: victor.jpg
-  web: https://sites.cs.ucsb.edu/~victorzakhary/
-  info: "D&I chair for <b>ICDE 2021</b>"
-- name: Carlo Curino
-  photo: carlo.jpg
-  web: https://www.linkedin.com/in/curino
-  info: "D&I chair for <b>SoCC 2021</b>"
-- name: Neeraja Yadwadkar
-  photo: neeraja.jpg
-  web: https://cs.stanford.edu/~neeraja/
-  info: "D&I chair for <b>SoCC 2021</b>"
-- name: Sihem Amer-Yahia
-  photo: sihem.jpg
-  web: http://lig-membres.imag.fr/amery/
-  info: "D&I chair for <b>VLDB 2021/2022</b>"
-- name: Panos K. Chrysanthis
-  photo: panos.jpg
-  web: https://panos.cs.pitt.edu/
-  info: "D&I chair for <b>EDBT 2021/2022</b> and <b>MDM 2021/2022</b>"
 - name: Genoveva Vargas Solar
   photo: genoveva.jpg
   web: http://vargas-solar.com/
-  info: "D&I chair for <b>EDBT 2022</b>"
+  info: "D&I chair for <b>EDBT/ICDT 2022-23</b>"
+- name: Panos K. Chrysanthis
+  photo: panos.jpg
+  web: https://panos.cs.pitt.edu/
+  info: "D&I chair for <b>EDBT/ICDT 2022-23</b>, <b>DEBS 2022</b>, and <b>MDM 2021-22</b>"  
 - name: Vana Kalogeraki
   photo: vana.jpg
   web: http://www2.cs.aueb.gr/~vana/
-  info: "D&I chair for <b>MDM 2021</b>"
-- name: Wenny Rahayu
-  photo: wenny.jpg
-  web: https://scholars.latrobe.edu.au/jwrahayu
-  info: "D&I chair for <b>WISE 2021</b>" 
+  info: "D&I chair for <b>DEBS 2022</b> and <b>MDM 2021-22</b>"
 - name: Renata Borovica-Gajic
   photo: renata.jpg
   web: http://renata.borovica-gajic.com/
@@ -62,11 +30,23 @@
   photo: ytian.jpg
   web: https://humming80.github.io
   info: "D&I Co-Chair for <b>CIDR 2022</b>"
-  name: Shazia Sadiq
+- name: Shazia Sadiq
   photo: shazia.JPG
   web: https://researchers.uq.edu.au/researcher/792
   info: "D&I Co-Chair for <b>VLDB 2022</b>"
-  name: Gillian Dobbie
+- name: Gillian Dobbie
   photo: Gill.jpg
   web: https://www.science.auckland.ac.nz/people/profile/g-dobbie
   info: "D&I Co-Chair for <b>VLDB 2022</b>"
+- name: Wenny Rahayu
+  photo: wenny.jpg
+  web: https://scholars.latrobe.edu.au/jwrahayu
+  info: "D&I Co-Chair for <b>WISE 2022</b>"
+- name: Sana Sellami
+  photo: sana.jpg
+  web: https://fr.linkedin.com/in/sana-sellami-b2498a7?trk=public_profile_browsemap
+  info: "D&I Co-Chair for <b>WISE 2022</b>"
+- name: Yuanyuan Tian
+  photo: ytian.jpg
+  web: https://humming80.github.io
+  info: "D&I Co-Chair for <b>CIDR 2023</b>"
