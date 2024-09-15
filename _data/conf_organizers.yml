@@ -18,14 +18,30 @@
   photo: genoveva.jpg
   web: http://vargas-solar.com/
   info: "DEI chair for <b>EDBT/ICDT 2022-23</b>, <b>ADBIS 2023-25</b>"
-- name: Panos K. Chrysanthis
-  photo: panos.jpg
-  web: https://panos.cs.pitt.edu/
-  info: "DEI chair for <b>EDBT/ICDT 2022-23</b>, <b>DEBS 2022</b>, and <b>MDM 2021-22</b>"  
 - name: Vana Kalogeraki
   photo: vana.jpg
   web: http://www2.cs.aueb.gr/~vana/
   info: "DEI chair for <b>DEBS 2022</b> and <b>MDM 2021-22-24</b>"
+- name: Yuanyuan Tian
+  photo: ytian.jpg
+  web: https://humming80.github.io
+  info: "DEI Co-Chair for <b>CIDR 2023</b>"
+- name: Carlo Curino
+  photo: carlo.jpg
+  web: https://www.microsoft.com/en-us/research/people/ccurino/
+  info: "DEI Co-Chair for <b>SIGMOD 2023</b>"
+- name: Yael Amsterdamer
+  photo: yael.jpg
+  web: https://u.cs.biu.ac.il/~amstery/
+  info: "DEI Co-Chair for <b>SIGMOD 2023</b>"
+- name: Barbara Catania
+  photo: barbara.jpg
+  web: http://www.odbms.org/about/contributors/catania/
+  info: "DEI Co-Chair for <b>ADBIS 2023-24</b>"
+- name: Panos K. Chrysanthis
+  photo: panos.jpg
+  web: https://panos.cs.pitt.edu/
+  info: "DEI chair for <b>EDBT/ICDT 2022-23</b>, <b>DEBS 2022</b>, and <b>MDM 2021-22</b>"  
 - name: Renata Borovica-Gajic
   photo: renata.jpg
   web: http://renata.borovica-gajic.com/
@@ -62,19 +78,3 @@
   photo: sana.jpg
   web: https://fr.linkedin.com/in/sana-sellami-b2498a7?trk=public_profile_browsemap
   info: "DEI Co-Chair for <b>WISE 2022</b>"
-- name: Yuanyuan Tian
-  photo: ytian.jpg
-  web: https://humming80.github.io
-  info: "DEI Co-Chair for <b>CIDR 2023</b>"
-- name: Carlo Curino
-  photo: carlo.jpg
-  web: https://www.microsoft.com/en-us/research/people/ccurino/
-  info: "DEI Co-Chair for <b>SIGMOD 2023</b>"
-- name: Yael Amsterdamer
-  photo: yael.jpg
-  web: https://u.cs.biu.ac.il/~amstery/
-  info: "DEI Co-Chair for <b>SIGMOD 2023</b>"
-- name: Barbara Catania
-  photo: barbara.jpg
-  web: http://www.odbms.org/about/contributors/catania/
-  info: "DEI Co-Chair for <b>ADBIS 2023-24</b>"
