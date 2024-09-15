@@ -1,7 +1,7 @@
-- name: Amr El Abbadi
-  photo: amr.jpg
-  web: https://sites.cs.ucsb.edu/~amr/
-  info: "is Prof at UCSB and serves as liaison for <b>TCDE</b>"
+- name: Angela Bonifati
+  photo: angela.jpg
+  web: https://perso.liris.cnrs.fr/angela.bonifati/
+  info: "is Prof at University Claude Bernard Lyon 1 and serves as liaison for <b>TCDE</b>"
 - name: Divyakant Agrawal
   photo: divy.jpg
   web: https://sites.cs.ucsb.edu/~agrawal/
