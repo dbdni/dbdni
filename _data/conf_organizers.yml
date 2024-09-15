@@ -1,7 +1,7 @@
 - name: Genoveva Vargas Solar
   photo: genoveva.jpg
   web: http://vargas-solar.com/
-  info: "" # "DEI chair for <b>EDBT/ICDT 2022-23</b>, <b>ADBIS 2023-2024</b>"
+  info: "DEI chair for <b>EDBT/ICDT 2022-23</b>"
 - name: Panos K. Chrysanthis
   photo: panos.jpg
   web: https://panos.cs.pitt.edu/
@@ -61,4 +61,4 @@
 - name: Barbara Catania
   photo: barbara.jpg
   web: http://www.odbms.org/about/contributors/catania/
-  info: "" #"DEI Co-Chair for <b>ADBIS 2023-2024</b>"
+  info: "DEI Co-Chair for <b>ADBIS 2023</b>"
