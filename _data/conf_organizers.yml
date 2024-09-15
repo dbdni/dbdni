@@ -1,7 +1,7 @@
 - name: Pınar Tözün
   photo: pinar.jpg
   web: https://www.pinartozun.com
-  info: "DEI co-chair for <b>CIDR 2024</b>"
+  info: "DEI co-chair for <b>CIDR 2024</b>,  <b>ICDE 2024</b>"
 - name: Stratos Idreos
   photo: stratos.png
   web: https://stratos.seas.harvard.edu
@@ -18,6 +18,10 @@
   photo: benny.png
   web: https://benny.cs.technion.ac.ilbennie
   info: "DEI co-chair for <b>EDBT/ICDT 2024</b>"
+- name: Ekaterini Ioannou
+  photo: ekaterini.png
+  web: https://www.tilburguniversity.edu/staff/ekaterini-ioannou
+  info: "DEI co-chair for <b>ICDE 2024</b>"
 - name: Aidan Hogan
   photo: aidan.png
   web: https://aidanhogan.com
