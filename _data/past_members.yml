@@ -1,7 +1,12 @@
 - name: Amr El Abbadi
   photo: amr.jpg
   web: https://sites.cs.ucsb.edu/~amr/
-  info: "is Prof at UCSB and until <i>until 2024</i> served as liaison for <b>TCDE</b>"
+  info: "is Prof at UCSB and  <i>until 2024</i> served as liaison for <b>TCDE</b>"
+- name: Liat Peterfreund
+  photo: liat.jpg
+  web: https://sites.google.com/view/liatpeterfreund/
+  info: "is a CNRS researcher in LIGM (Paris-Est University) and <i>until 2024</i> served as liaison for the <b>PODS Executive Committee</b>"
+- name: Meihui Zhang
 - name: Avrilia Floratou
   photo: avrilia.jpg
   web: https://www.microsoft.com/en-us/research/people/avflor/
