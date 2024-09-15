@@ -1,53 +1,52 @@
-- name: Amr El Abbadi
+- name: Amr El Abbadi (he/him)
   photo: amr.jpg
   web: https://sites.cs.ucsb.edu/~amr/
   info: "is Prof at UCSB and  <i>until 2024</i> served as liaison for <b>TCDE</b>"
-- name: Liat Peterfreund
+- name: Liat Peterfreund (she/her)
   photo: liat.jpg
   web: https://sites.google.com/view/liatpeterfreund/
   info: "is a CNRS researcher in LIGM (Paris-Est University) and <i>until 2024</i> served as liaison for the <b>PODS Executive Committee</b>"
-- name: Meihui Zhang
-- name: Avrilia Floratou
+- name: Avrilia Floratou (she/her)
   photo: avrilia.jpg
   web: https://www.microsoft.com/en-us/research/people/avflor/
   info: "D&I Co-Chair for <b>SIGMOD 2021</b>"
-- name: Arun Kumar
+- name: Arun Kumar (he/him)
   photo: arun.jpg
   web: http://cseweb.ucsd.edu/~arunkk/
   info: "D&I Co-Chair for <b>SIGMOD 2021</b>"
-- name: Georgia Koutrika
+- name: Georgia Koutrika (she/her)
   photo: georgia.jpg
   web: http://cgi.di.uoa.gr/~koutrika/
   info: "D&I chair for <b>ICDE 2021</b>"
-- name: Victor Zakhary
+- name: Victor Zakhary (he/him)
   photo: victor.jpg
   web: https://sites.cs.ucsb.edu/~victorzakhary/
   info: "D&I chair for <b>ICDE 2021</b>"
-- name: Carlo Curino
+- name: Carlo Curino (he/him)
   photo: carlo.jpg
   web: https://www.linkedin.com/in/curino
   info: "D&I chair for <b>SoCC 2021</b>"
-- name: Neeraja Yadwadkar
+- name: Neeraja Yadwadkar (she/her)
   photo: neeraja.jpg
   web: https://cs.stanford.edu/~neeraja/
   info: "D&I chair for <b>SoCC 2021</b>"
-- name: Sihem Amer-Yahia
+- name: Sihem Amer-Yahia (she/her)
   photo: sihem.jpg
   web: http://lig-membres.imag.fr/amery/
   info: "D&I chair for <b>VLDB 2021/2022</b>"
-- name: Panos K. Chrysanthis
+- name: Panos K. Chrysanthis (he/him)
   photo: panos.jpg
   web: https://panos.cs.pitt.edu/
   info: "D&I chair for <b>EDBT/ICDT 2021</b> and <b>MDM 2021</b>"
-- name: Vana Kalogeraki
+- name: Vana Kalogeraki (she/her)
   photo: vana.jpg
   web: http://www2.cs.aueb.gr/~vana/
   info: "D&I chair for <b>MDM 2021</b>"
-- name: Wenny Rahayu
+- name: Wenny Rahayu (she/her)
   photo: wenny.jpg
   web: https://scholars.latrobe.edu.au/jwrahayu
   info: "D&I chair for <b>WISE 2021</b>"
-- name: Fatma Ozcan
+- name: Fatma Ozcan (she/her)
   photo: Fatma-Ozcan.png
   web: https://www.linkedin.com/in/fatma-ozcan-3299858
   info: "Fatma is a principal research engineer at Google, She co-leads the <b>REACH OUT</b> action at DEI in DB"
