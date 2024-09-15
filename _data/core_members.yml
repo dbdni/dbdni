@@ -2,6 +2,30 @@
   photo: genoveva.jpg
   web: http://www.vargas-solar.com
   info: "Genoveva is a CNRS Principal Scientist at the laboratory LIRIS, Lyon. She leads the <b>COORDINATE</b> action at DEI in DM"
+- name: Jesús Camacho-Rodríguez
+  photo: jesus.png
+  web: https://jesus.camachorodriguez.name/
+  info: "Jesús is a research engineering manager at Microsoft. He leads the <b>INFORM</b> action at DEI in DB"
+  - name: Roee Shraga
+  photo: roee.JPG
+  web: https://sites.google.com/view/roee-shraga/
+  info: "Roee is an assitant professor at Worcester Polytechnic Institute. He co-leads the <b>INFORM</b> action at DEI in DB"
+- name: Madhulika Mohanty
+  photo: madhulika-mohanty.jpg
+  web: https://www.madhulikamohanty.com/
+  info: "Madhulika is a postdoctoral researcher at Inria, Saclay. She co-leads the <b>ETHICS</b> action at DEI in DB"
+  - name: Nelly Barret
+  photo: nelly-barret.jpg
+  web: https://nelly-barret.github.io
+  info: "Nelly is a postdoctoral researcher at Politecnico di Milano, Italy. She co-leads the <b>ETHICS</b> action at DEI in DB"
+- name: Sujaya Maiyya
+  photo: sujaya.png
+  web: https://sites.cs.ucsb.edu/~sujaya_maiyya/
+  info: "Sujaya is a Ph.D. candidate at UC Santa Barbara. She co-leads the <b>ETHICS</b> action at DEI in DB"
+- name: Panos K. Chrysanthis 
+  photo: panos.jpg
+  web: https://panos.cs.pitt.edu/
+  info: "Panos is a Professor of Computer Science at the University of Pittsburgh. Until 2024 he led the <b>MEDIA</b> action at DEI in DB"
 - name: Juliana Freire
   photo: juliana.jpg
   web: https://vgc.engineering.nyu.edu/~juliana
@@ -9,40 +33,25 @@
 - name: Victor Zakhary
   photo: victor.jpg
   web: https://sites.cs.ucsb.edu/~victorzakhary/
-  info: "Victor is Senior Member of Technical Staff at Oracle, Bay Area. He co-leads the <b>INCLUDE</b> action at DEI in DB"
+  info: "Victor is Senior Member of Technical Staff at Oracle, Bay Area. Until 2024 he co-led the <b>INCLUDE</b> action at DEI in DB now in charge of conferece organizers"
 - name: Alexandra Meliou
   photo: alexandra.jpg
   web: https://people.cs.umass.edu/~ameli/
-  info: "Alexandra is an associate professor at the University of Massachusetts Amherst.  She co-leads the <b>ORGANIZE</b> action at DEI in DB"
+  info: "Alexandra is an associate professor at the University of Massachusetts Amherst.  Until 2024 she co-led the <b>ORGANIZE</b> action at DEI in DB now in charge of conference organizers"
 - name: Wang-Chiew Tan
   photo: wangchiew.JPG
   web: https://wangchiew.github.io
-  info: "Wang-Chiew is a research scientist at Facebook AI. She co-leads the <b>INFORM</b> and <b>ORGANIZE</b> actions at DEI in DB"
+  info: "Wang-Chiew is a research scientist at Facebook AI. Until 2024 she co-led the <b>INFORM</b> and <b>ORGANIZE</b> actions at DEI in DB"
 - name: Sourav Bhowmick
   photo: sourav.jpg
   web: https://personal.ntu.edu.sg/assourav/
-  info: "Sourav is an associate professor at Nanyang Technological University. He co-leads the <b>INFORM</b> actions at DEI in DB"
+  info: "Sourav is an associate professor at Nanyang Technological University. Until 2024 he co-led the <b>INFORM</b> actions at DEI in DB"
 - name: Avrilia Floratou
   photo: avrilia.jpg
   web: https://www.microsoft.com/en-us/research/people/avflor/
-  info: "Avrilia is a research scientist at Microsoft, She co-leads the <b>REACH OUT</b> action at DEI in DB"
+  info: "Avrilia is a research scientist at Microsoft, Until 2024 she co-led the <b>REACH OUT</b> action at DEI in DB now in charge of the conference organizers"
 - name: Fatma Ozcan
   photo: Fatma-Ozcan.png
   web: https://www.linkedin.com/in/fatma-ozcan-3299858
-  info: "Fatma is a principal research engineer at Google, She co-leads the <b>REACH OUT</b> action at DEI in DB"
-- name: Sujaya Maiyya
-  photo: sujaya.png
-  web: https://sites.cs.ucsb.edu/~sujaya_maiyya/
-  info: "Sujaya is a Ph.D. candidate at UC Santa Barbara. She co-leads the <b>SCOUT</b> action at DEI in DB"
-- name: Madhulika Mohanty
-  photo: madhulika-mohanty.jpg
-  web: https://www.madhulikamohanty.com/
-  info: "Madhulika is a postdoctoral researcher at Inria, Saclay. She co-leads the <b>SCOUT</b> action at DEI in DB"
-- name: Jesús Camacho-Rodríguez
-  photo: jesus.png
-  web: https://jesus.camachorodriguez.name/
-  info: "Jesús is a research engineering manager at Microsoft. He leads the <b>ETHICS</b> action at DEI in DB"
-- name: Panos K. Chrysanthis 
-  photo: panos.jpg
-  web: https://panos.cs.pitt.edu/
-  info: "Panos is a Professor of Computer Science at the University of Pittsburgh. He leads the <b>MEDIA</b> action at DEI in DB"
+  info: "Fatma is a principal research engineer at Google, Until 2024 she co-led the <b>REACH OUT</b> action at DEI in DB now in charge of the conference organizers"
+
